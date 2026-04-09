@@ -77,7 +77,7 @@ nmap -sS 192.168.1.0/24 -oN scan.txt
 Saved scan output:
 
 nmap -sS 192.168.1.0/24 -oN scan.txt
----
+
 
 
 ---
