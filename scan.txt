@@ -1,0 +1,80 @@
+# Nmap 7.98 scan initiated Thu Apr  9 04:21:33 2026 as: /usr/lib/nmap/nmap -sS -oN scan.txt 192.168.29.0/24
+Nmap scan report for reliance.reliance (192.168.29.1)
+Host is up (0.016s latency).
+Not shown: 990 filtered tcp ports (no-response)
+PORT     STATE  SERVICE
+22/tcp   closed ssh
+53/tcp   open   domain
+80/tcp   open   http
+443/tcp  open   https
+1900/tcp open   upnp
+2869/tcp closed icslap
+7443/tcp open   oracleas-https
+8080/tcp open   http-proxy
+8200/tcp closed trivnet1
+8443/tcp open   https-alt
+MAC Address: 4C:22:F3:EE:11:04 (Arcadyan)
+
+Nmap scan report for 192.168.29.112
+Host is up (0.026s latency).
+All 1000 scanned ports on 192.168.29.112 are in ignored states.
+Not shown: 1000 closed tcp ports (reset)
+MAC Address: 8A:70:66:5C:54:DC (Unknown)
+
+Nmap scan report for 192.168.29.130
+Host is up (0.0012s latency).
+Not shown: 977 closed tcp ports (reset)
+PORT     STATE SERVICE
+21/tcp   open  ftp
+22/tcp   open  ssh
+23/tcp   open  telnet
+25/tcp   open  smtp
+53/tcp   open  domain
+80/tcp   open  http
+111/tcp  open  rpcbind
+139/tcp  open  netbios-ssn
+445/tcp  open  microsoft-ds
+512/tcp  open  exec
+513/tcp  open  login
+514/tcp  open  shell
+1099/tcp open  rmiregistry
+1524/tcp open  ingreslock
+2049/tcp open  nfs
+2121/tcp open  ccproxy-ftp
+3306/tcp open  mysql
+5432/tcp open  postgresql
+5900/tcp open  vnc
+6000/tcp open  X11
+6667/tcp open  irc
+8009/tcp open  ajp13
+8180/tcp open  unknown
+MAC Address: 08:00:27:33:2F:28 (Oracle VirtualBox virtual NIC)
+
+Nmap scan report for 192.168.29.194
+Host is up (0.032s latency).
+All 1000 scanned ports on 192.168.29.194 are in ignored states.
+Not shown: 1000 closed tcp ports (reset)
+MAC Address: 3E:D4:C0:F7:78:4D (Unknown)
+
+Nmap scan report for 192.168.29.203
+Host is up (0.00038s latency).
+Not shown: 997 filtered tcp ports (no-response)
+PORT     STATE SERVICE
+22/tcp   open  ssh
+3306/tcp open  mysql
+7070/tcp open  realserver
+MAC Address: 28:A0:6B:42:33:4E (Intel Corporate)
+
+Nmap scan report for 192.168.29.205
+Host is up (0.012s latency).
+Not shown: 999 closed tcp ports (reset)
+PORT     STATE SERVICE
+2869/tcp open  icslap
+MAC Address: B8:59:CE:37:4A:E1 (Earda Technologies)
+
+Nmap scan report for 192.168.29.248
+Host is up (0.021s latency).
+All 1000 scanned ports on 192.168.29.248 are in ignored states.
+Not shown: 1000 closed tcp ports (reset)
+MAC Address: 0A:EB:83:85:30:B6 (Unknown)
+
