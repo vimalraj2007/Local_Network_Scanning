@@ -81,7 +81,6 @@ Services exposed:
 FTP (File Transfer)
 SSH (Remote Access)
 HTTP (Web Service)
----
 
 
 ---
@@ -92,7 +91,7 @@ Open ports increase attack surface
 FTP may allow unauthorized access
 SSH brute-force attacks possible
 HTTP can expose web vulnerabilities
----
+
 
 ---
 
@@ -102,7 +101,6 @@ Use firewalls to restrict access
 Disable unnecessary services
 Use strong authentication for SSH
 Monitor network traffic regularly
----
 
 ---
 
