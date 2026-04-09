@@ -61,14 +61,6 @@ Communication between devices
 
 ---
 
----
-
-## 6️⃣ Save Results
-
-Saved scan output:
-
-nmap -sS 192.168.1.0/24 -oN scan.txt
----
 
 ---
 
