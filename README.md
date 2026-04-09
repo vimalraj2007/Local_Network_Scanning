@@ -116,11 +116,11 @@ Monitor network traffic regularly
 
 ## 📁 Repository Structure
 
----
+```
 Task1-Network-Scan/
 
 ├── scan.txt
 ├── screenshots/
 ├── README.md
----
+```
 ---
