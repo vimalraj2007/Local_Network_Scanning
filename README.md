@@ -1,4 +1,4 @@
-# 🔍 Task 1: Network Port Scanning & Analysis
+# Network Port Scanning & Analysis
 
 ## 📌 Objective
 The objective of this task is to discover open ports and services running on devices within a local network and understand potential security risks associated with exposed services.
